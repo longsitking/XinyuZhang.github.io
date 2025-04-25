@@ -1,7 +1,7 @@
 ---
 title: "arXiv:2504.15545 VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining"
 collection: publications
-category: manuscripts
+category: Journal Articles
 permalink: /publication/2504-15545
 excerpt: '这部分需要你补充关于这篇论文的简要描述。'
 date: 2025-4 # 这个日期格式可能需要你根据实际情况调整，比如是否是2504年等
