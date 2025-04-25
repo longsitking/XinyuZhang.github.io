@@ -9,4 +9,4 @@ venue: 'Journal Articles'
 paperurl: 'https://arxiv.org/abs/2504.15545'
 citation: 'Xinyu Zhang. (2504). &quot;arXiv:2504.15545 VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining.&quot; <i>arXiv</i>.'
 ---
-这里可以详细介绍论文的更多信息，比如研究背景、主要贡献等内容，由你根据论文情况填写。
+这里可以详细介绍论文的更多信息，比如研究背景、主要贡献等内容，由你根据论文情况填c写。
