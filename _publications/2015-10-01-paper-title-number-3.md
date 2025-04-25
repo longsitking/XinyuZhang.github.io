@@ -1,5 +1,5 @@
 ---
-title: "arXiv:2504.15545 VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining"
+title: "VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
